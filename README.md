@@ -1,1 +1,1 @@
-# curso-docker-6
+# Training Novatec - Curso Docker 6
